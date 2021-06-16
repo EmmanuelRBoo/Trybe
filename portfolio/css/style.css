@@ -52,3 +52,17 @@ img{
 .indice{
     padding-bottom: 10px;
 }
+
+.org{
+    height: 30px;
+}
+
+.orgulho{
+    animation: move 2s infinite;
+}
+
+@keyframes move{
+    0%{font-size: 18px;}
+    50%{font-size: 24px;}
+    100%{font-size: 18px;}
+}
