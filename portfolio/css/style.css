@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    margin-top: 50px;
+    margin-left: 18px;
+}
+
+p{
+    margin-top: 6px;
+    margin-left: 18px;
+    font-size: 18px;
+    text-indent: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+li{
+    margin-top: 6px;
+    margin-left: 18px;
+    list-style: none;
+}
+
+img{
+    width: 500px;
+}
+
+.curriculum{
+    background-color: #ccc;
+    margin: 40px 400px;
+}
+
+.image{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.indice{
+    padding-bottom: 10px;
+}
